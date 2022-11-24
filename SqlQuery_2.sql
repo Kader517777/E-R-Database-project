@@ -1,0 +1,1 @@
+﻿INSERT INTO Table1(name) VALUES("kader");
